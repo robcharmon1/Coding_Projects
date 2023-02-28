@@ -14,4 +14,4 @@ xxx
 * This is a command line choose your own adventure game written in Python
 * Main feature is a nested dictionry where
   * The first keys represent the rooms
-  * The value for each room is keys representing an item, moveable directions, and 
+  * The value for each room is keys representing an item, moveable directions, and room descriptions and values for each
