@@ -9,6 +9,12 @@ These are a number of coding projects I've worked on sorted by language.
 * Reads a text file, uses a map to store items and quantities sold, and outputs data to a new file
 * Displays menu for user with choices for displaying the data in different ways
 
+[Bubble Sort Algorithm](/Bubble_Sort_Algorithm/)
+
+* Program to take input for the number of numbers to sort, and the numbers to be sorted
+* Uses a bubble sort algorithm to arrange numbers
+* Outputs sorted list of input numbers
+
 ## Java
 
 [Rescue Animal Record Keeper](/Rescue_Animal_Record_Keeper/)
