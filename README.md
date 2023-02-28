@@ -9,4 +9,5 @@ xxx
 
 ## Python
 
-[Create Your Own Adventure Game](/
+[Create Your Own Adventure Game](/Create_Your_Own_Adventure_Game/)
+xxx
