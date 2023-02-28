@@ -11,4 +11,7 @@ xxx
 
 [Create Your Own Adventure Game](/Create_Your_Own_Adventure_Game/)
 
-* This is a command line adventure game written in python
+* This is a command line choose your own adventure game written in Python
+* Main feature is a nested dictionry where
+* * The first keys represent the rooms
+* 
