@@ -1,2 +1,2 @@
 # Coding_Projects
-Various coding projects I've worked on
+These are a number of coding projects I've worked on.
