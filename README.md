@@ -3,10 +3,11 @@ These are a number of coding projects I've worked on sorted by language.
 
 ## C++
 
-[Store Record Text File Analyzer]()
+[Record Text File Analyzer](/Record_Text_File_Analyzer/)
 
 ## Java
-xxx
+
+[Rescue Animal Record Keeper](/Rescue_Animal_Record_Keeper/)
 
 ## Python
 
