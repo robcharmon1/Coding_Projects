@@ -5,17 +5,17 @@ These are a number of coding projects I've worked on sorted by language.
 
 [Record Text File Analyzer](/Record_Text_File_Analyzer/)
 
-•	Program in C++ to turn text file records to useable data
-•	Reads a text file, uses a map to store items and quantities sold, and outputs data to a new file
-•	Displays menu for user with choices for displaying the data in different ways
+* Program in C++ to turn text file records to useable data
+* Reads a text file, uses a map to store items and quantities sold, and outputs data to a new file
+* Displays menu for user with choices for displaying the data in different ways
 
 ## Java
 
 [Rescue Animal Record Keeper](/Rescue_Animal_Record_Keeper/)
 
-•	Defines an animal base class and sub classes for specific animals
-•	Allows user to perform functions to create new objects and display stored data
-•	Uses resizable arrays to easily store objects
+* Defines an animal base class and sub classes for specific animals
+* Allows user to perform functions to create new objects and display stored data
+* Uses resizable arrays to easily store objects
 
 ## Python
 
