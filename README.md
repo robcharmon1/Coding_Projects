@@ -8,8 +8,7 @@ xxx
 xxx
 
 ## Python
-xxx
 
 [Create Your Own Adventure Game](/Create_Your_Own_Adventure_Game/)
 
-xxx
+* This is a command line adventure game written in python
