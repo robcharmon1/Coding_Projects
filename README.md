@@ -3,9 +3,15 @@ These are a number of coding projects I've worked on sorted by language.
 
 ## C++
 
-### Sorting ALgorithm Comparison
+### Sorting Algorithm Comparison
 
-xxx
+[Program files](/Sorting_Algorithm_Comparison/)
+
+* Implements various sorting algorithms for a data set of random integers
+* Outputs run times of 6 different sorting algorithms on the same data for comparison
+* Data set size is determined by user input
+* Results
+
 
 ### Record Text File Analyzer
 
