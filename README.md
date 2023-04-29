@@ -13,7 +13,7 @@ These are a number of coding projects I've worked on sorted by language.
 * Below is a plot of run times vs data set sizes for the algorithms
 * Insertion sort and selection sort are expected to have run times on the order of O(n<sup>2</sup>), and an exponential growth can be seen in their plots below
 * The other 4 algorithms are much faster
-* Shell sort has an average run time on the order of O(n<sup>1.5</sup>) and quick sort, merge sort, and radix sort have run times on the order of O(n<sup>nlogn</sup>), and their much slower growth rates can be seen below
+* Shell sort has an average run time on the order of O(n<sup>1.5</sup>) and quick sort, merge sort, and radix sort have run times on the order of O(nlogn), and their much slower growth rates can be seen below
 
 ![Sort_alg_comp_graph](https://user-images.githubusercontent.com/85814015/235326470-49b50516-3acb-4a15-8f51-3b21e2c9f757.png)
 
