@@ -5,7 +5,7 @@ These are a number of coding projects I've worked on sorted by language.
 
 ### Record Text File Analyzer
 
-[Record Text File Analyzer](/Record_Text_File_Analyzer/)
+[Program files](/Record_Text_File_Analyzer/)
 
 * Program in C++ to turn text file records to useable data
 * Reads a text file, uses a map to store items and quantities sold, and outputs data to a new file
@@ -13,7 +13,9 @@ These are a number of coding projects I've worked on sorted by language.
 
 ## Java
 
-[Rescue Animal Record Keeper](/Rescue_Animal_Record_Keeper/)
+### Rescue Animal Record Keeper
+
+[Program files](/Rescue_Animal_Record_Keeper/)
 
 * Defines an animal base class and sub classes for specific animals
 * Allows user to perform functions to create new objects and display stored data
@@ -21,7 +23,9 @@ These are a number of coding projects I've worked on sorted by language.
 
 ## Python
 
-[Create Your Own Adventure Game](/Create_Your_Own_Adventure_Game/)
+### Create Your Own Adventure Game
+
+[Program Files](/Create_Your_Own_Adventure_Game/)
 
 * This is a command line choose your own adventure game written in Python
 * Takes input commands to allow user to move between rooms, collect items, and complete an objective
