@@ -10,12 +10,14 @@ These are a number of coding projects I've worked on sorted by language.
 * Implements various sorting algorithms for a data set of random integers
 * Outputs run times of 6 different sorting algorithms on the same data for comparison
 * Data set size is determined by user input
-* Below is a plot of run times vs data set sizes for the algorithms
+* Below is a plot of run times vs data set sizes for the algorithms and sample output from the program
 * Insertion sort and selection sort are expected to have run times on the order of O(n<sup>2</sup>), and an exponential growth can be seen in their plots below
 * The other 4 algorithms are much faster
 * Shell sort has an average run time on the order of O(n<sup>1.5</sup>) and quick sort, merge sort, and radix sort have run times on the order of O(nlogn), and their much slower growth rates can be seen below
 
 ![Sort_alg_comp_graph](https://user-images.githubusercontent.com/85814015/235326470-49b50516-3acb-4a15-8f51-3b21e2c9f757.png)
+
+![Sort_alg_comp_output](https://user-images.githubusercontent.com/85814015/235327265-922cfea6-6dff-48a7-97d8-eff0355dfc56.png)
 
 ### Record Text File Analyzer
 
