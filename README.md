@@ -10,7 +10,8 @@ These are a number of coding projects I've worked on sorted by language.
 * Implements various sorting algorithms for a data set of random integers
 * Outputs run times of 6 different sorting algorithms on the same data for comparison
 * Data set size is determined by user input
-* Results
+* Below is a plot of run times vs data set sizes for the algorithms
+* Insertion sort and selection sort are expected to have run times on the order of O(n^2), and an exponential growth can be seen in their plots below
 
 ![Sort_alg_comp_graph](https://user-images.githubusercontent.com/85814015/235326470-49b50516-3acb-4a15-8f51-3b21e2c9f757.png)
 
