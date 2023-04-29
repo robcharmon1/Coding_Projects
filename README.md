@@ -12,7 +12,8 @@ These are a number of coding projects I've worked on sorted by language.
 * Data set size is determined by user input
 * Results
 
-[!alt text](Sort_alg_comp_graph.png)
+![Sort_alg_comp_graph](https://user-images.githubusercontent.com/85814015/235326420-0e6fa720-9f97-4c48-9662-3129ef05a564.png)
+
 
 ### Record Text File Analyzer
 
