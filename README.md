@@ -3,6 +3,8 @@ These are a number of coding projects I've worked on sorted by language.
 
 ## C++
 
+### Record Text File Analyzer
+
 [Record Text File Analyzer](/Record_Text_File_Analyzer/)
 
 * Program in C++ to turn text file records to useable data
