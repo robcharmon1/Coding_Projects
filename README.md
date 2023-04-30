@@ -15,9 +15,9 @@ These are a number of coding projects I've worked on sorted by language.
 * The other 4 algorithms are much faster
 * Shell sort has an average run time on the order of O(n<sup>1.5</sup>) and quick sort, merge sort, and radix sort have run times on the order of O(nlogn), and their much slower growth rates can be seen below
 
-![Sort_alg_comp_graph](https://user-images.githubusercontent.com/85814015/235326470-49b50516-3acb-4a15-8f51-3b21e2c9f757.png)
-
 ![Sort_alg_comp_output](https://user-images.githubusercontent.com/85814015/235327265-922cfea6-6dff-48a7-97d8-eff0355dfc56.png)
+
+![Sort_alg_comp_graph](https://user-images.githubusercontent.com/85814015/235326470-49b50516-3acb-4a15-8f51-3b21e2c9f757.png)
 
 ### Record Text File Analyzer
 
